@@ -1,11 +1,10 @@
-'use strict';
 
-const category = 'toys';
+// const category = 'toys';
 
-console.log(`https://someurl.com/${category}/5`);
+// console.log(`https://someurl.com/${category}/5`);
 
-const user = 'Ivan';
-alert(`hello, ${user}`);
+// const user = 'Ivan';
+// alert(`hello, ${user}`);
 
 
 // const result = confirm("are you here?");
